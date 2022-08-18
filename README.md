@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello there; welcome 👋🏾
 
-<!--
-**thexovc/thexovc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-thexovc-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/daniel-osariemen-095772210/)](http://linkedin.com/in/daniel-osariemen-095772210/) [![Twitter Badge](https://img.shields.io/badge/-@thexovc-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/thexovc)](https://twitter.com/thexovc)
 
-Here are some ideas to get you started:
+I'm a Software Engineer, BlockChain Expert and a Web3 Developer, I'm excited about Tech, Security, Web3, Metaverse and Gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: They/Them
+- 🌱 I’m currently learning Cloud/Dev Ops and Ethical Hacking
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: BlockChain Developer, Blockchain Quality Engineer, Full Stack Web Developer
+- 📫 You can [view my portfolio website](https://kyilax-portfolio.vercel.app/) and contact me by emailing osazeepeter79@gmail.com.
+
+---
+
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> | -->
+
