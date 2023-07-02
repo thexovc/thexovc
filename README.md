@@ -7,7 +7,6 @@ I'm a Software Engineer, BlockChain Expert and a Web3 Developer, I'm excited abo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/Him
-- 🌱 I’m currently learning BlockChain Developement using solidity
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: BlockChain Developer, Blockchain Quality Engineer, Full Stack Web Developer
 - 📫 You can [view my portfolio website](https://kyilax-portfolio.vercel.app/) and contact me by emailing osazeepeter79@gmail.com.
