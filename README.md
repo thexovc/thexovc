@@ -15,3 +15,10 @@ I'm a Software Engineer, BlockChain Expert and a Web3 Developer, I'm excited abo
 
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> | -->
 
+
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thexovc&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Daniel Osariemen GitHub stats" /> -->
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexovc&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Daniel Osariemen GitHub stats" /> 
+
+
